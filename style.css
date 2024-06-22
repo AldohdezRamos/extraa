@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(241, 78, 13); /* Color de fondo */
+    padding-top: 50px; /* Margen superior */
+    font-family: Arial, sans-serif; /* Fuente */
+    text-align: center; /* Centrado de texto */
+}
+.container {
+    background-color:  #f4f74c;; /* Color de fondo del contenedor */
+    padding: 20px;
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+h1 {
+    font-size: 2.5rem; /* Tamaño de fuente */
+    font-weight: bold; /* Estilo de fuente */
+    color: #333333; /* Color de fuente */
+    margin-bottom: 20px; /* Margen inferior */
+}
+.social-icons {
+    margin-top: 20px; /* Margen superior */
+}
+.social-icons img {
+    max-width: 50px; /* Tamaño máximo de imagen */
+    margin: 10px; /* Espacio entre imágenes */
+}
